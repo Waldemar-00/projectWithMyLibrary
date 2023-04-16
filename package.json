@@ -1,0 +1,22 @@
+{
+  "name": "libraryforwork",
+  "version": "1.0.0",
+  "description": "project with my first library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waldemar-00/projectWithMyLibrary.git"
+  },
+  "author": "uladzimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waldemar-00/projectWithMyLibrary/issues"
+  },
+  "homepage": "https://github.com/Waldemar-00/projectWithMyLibrary#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
