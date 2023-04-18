@@ -1,0 +1,38 @@
+h1, h2, h3 {
+    color: rgb(165, 42, 42);
+}
+.promo .container {
+    margin-bottom: 50px;
+}
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.tab-panel {
+    justify-content: space-evenly;
+    border-color: rgb(165, 42, 42);
+    color:  rgb(165, 42, 42);
+}
+.tab-item__active {
+    background-color: white;
+    color: var(--color-red);
+}
+.tab-content {
+    border-color: rgb(165, 42, 42);
+}
+.tab-content div {
+    margin-top: 24px;
+}
+.tab-content a {
+    text-decoration: none;
+    color: var(--color-red);
+}
+.tab-content a span {
+    color:rgb(165, 42, 42);
+}
+.btn-border {
+    border-color:rgb(255, 178, 178);
+}
+.modal-title {
+    color:rgb(165, 42, 42);
+}
